@@ -49,9 +49,6 @@
         </div>
     
     </section>
-
-
-
 <div class="section-container">
     <section class="section" id="aboutMe">
          <h3 class="content-title">About me</h3>
