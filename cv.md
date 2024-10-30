@@ -75,7 +75,6 @@
   </ul>
 </div>
 </section>
-
 <section class="section" id="languages">
 <h3 class="content-title">Languages</h3>
 <ul>
