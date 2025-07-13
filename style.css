@@ -141,8 +141,7 @@ z-index: 1;
  /* Скругление углов рамки (делаем круг) */
  border-radius: 100%;
  border: 3px solid #0081fa;
- /* Выравнивание */
- float: justify;
+ margin-bottom: 20px;
  /* Внешний отступ справа */
  margin-right: 10px;
  /* Тень картинки */
@@ -245,6 +244,9 @@ z-index: 1;
   text-align: center;
   align-items: center;
   text-shadow: 1px 1px 2px red ;
+}
+.sidebar-blog-title2{
+  visibility:hidden;
 }
 .sidebar-blog-text{
   margin-left: 20px;
