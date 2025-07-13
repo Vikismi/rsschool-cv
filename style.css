@@ -132,6 +132,7 @@ position: absolute;
 right: 30px;
 bottom:1000px;
 z-index: 1;
+margin-top: 50px;
 }
 .intro-img {
  /* Ширина */
@@ -141,7 +142,8 @@ z-index: 1;
  /* Скругление углов рамки (делаем круг) */
  border-radius: 100%;
  border: 3px solid #0081fa;
- margin-bottom: 20px;
+ /* Выравнивание */
+margin-bottom: 20px;
  /* Внешний отступ справа */
  margin-right: 10px;
  /* Тень картинки */
@@ -238,7 +240,7 @@ z-index: 1;
   border-radius:85px 85px 0 0;
 }
 .sidebar-blog-title{
-  margin-top: 170px;
+  margin-top: 180px;
   margin-bottom: 10px;
   font-size: 24px;
   text-align: center;
