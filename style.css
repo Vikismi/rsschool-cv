@@ -245,6 +245,9 @@ z-index: 1;
   align-items: center;
   text-shadow: 1px 1px 2px red ;
 }
+.sidebar-blog-title2{
+  visibility:hidden;
+}
 .sidebar-blog-text{
   margin-left: 20px;
   text-align: left;
