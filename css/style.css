@@ -147,7 +147,8 @@ p span{
 .section-heading1 {
 float: center;
 position: absolute;
-right: 30px;
+top: 10px;
+right: 25px;
 bottom:1000px;
 z-index: 1;
 margin-top: 50px;
@@ -165,7 +166,7 @@ margin-bottom: 40px;
  /* Внешний отступ справа */
  margin-right: 10px;
  /* Тень картинки */
- box-shadow: 0 0 38px 18px rgb(95, 224, 35);
+ box-shadow: 0 0 38px 18px rgb(156, 9, 9);
  /* Эффект перехода */
  transition: .2s ease-in-out;
 }
@@ -271,7 +272,8 @@ margin-bottom: 40px;
   width: 100%;
   margin-left: 80px;
   color: white;
-  background-color: #2c323d;
+ background: rgb(49,196,54);
+  background: linear-gradient(225deg, rgba(49,196,54,0.8659663694579394) 30%, rgba(49,196,54,0.933193260214242) 35%, rgba(186,163,193,1) 56%, rgba(22,221,230,1) 78%);}
 
 
 }
@@ -281,7 +283,6 @@ margin-bottom: 40px;
   padding: 0;
   width: 100%;
   height: min-content;
-  background-color: #343945;
 }
 .sidebar-blog-title{
   font-family: "FilthAOE", italic;
@@ -352,3 +353,4 @@ background: linear-gradient(to bottom,#84d428,#0991097d)
   .footer p {
     font-size: 1.5rem;
     font-weight: 700;}
+
